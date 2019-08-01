@@ -1,0 +1,8 @@
+
+-	Web de NetController: http://DEVNCW01/netcontrollerWeb
+-	Web JE: http://DEVNCW01/EJournalWEB
+
+Usuario 
+admin 
+password
+admin
